@@ -1,0 +1,14 @@
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\bin\Debug\net6.0\BonusApp.exe
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\bin\Debug\net6.0\BonusApp.deps.json
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\bin\Debug\net6.0\BonusApp.runtimeconfig.json
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\bin\Debug\net6.0\BonusApp.dll
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\bin\Debug\net6.0\BonusApp.pdb
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\obj\Debug\net6.0\BonusApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\obj\Debug\net6.0\BonusApp.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\obj\Debug\net6.0\BonusApp.AssemblyInfo.cs
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\obj\Debug\net6.0\BonusApp.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\obj\Debug\net6.0\BonusApp.dll
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\obj\Debug\net6.0\refint\BonusApp.dll
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\obj\Debug\net6.0\BonusApp.pdb
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\obj\Debug\net6.0\BonusApp.genruntimeconfig.cache
+C:\Users\Martin\source\repos\Lesson\LINQ\BonusApp\obj\Debug\net6.0\ref\BonusApp.dll
